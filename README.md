@@ -23,4 +23,4 @@ Or use a pre-made bot (If you dont want to edit): https://discord.com/oauth2/aut
 
 Your allowed to use it in public on your server. But
 if you mod it and try to sell it, I will request you
-take it dowm. (Unless it is a older version of the bot.
+take it down. (Unless it is a older version of the bot.
