@@ -19,4 +19,8 @@ HOW TO IMPORT IT (This method to mod the bot):
 11. Allow it to your server
 
 Or use a pre-made bot (If you dont want to edit): https://discord.com/oauth2/authorize?client_id=1041849206668791888&scope=applications.commands%20bot&permissions=3072
+# Permissions
 
+Your allowed to use it in public on your server. But
+if you mod it and try to sell it, I will request you
+take it dowm. (Unless it is a older version of the bot.
