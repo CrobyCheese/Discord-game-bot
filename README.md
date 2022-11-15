@@ -5,6 +5,8 @@ Warning: this is in alpha and is very not complete, and will get major updates.
 How to run:
 type /play in your server with the bot.
 
+# Installing
+
 HOW TO IMPORT IT (This method to mod the bot):
 1. Go to https://replit.com/~ and click create.
 2. click import from github and import stupid-idiot-badge
