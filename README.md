@@ -12,7 +12,7 @@ HOW TO IMPORT IT (This method to mod the bot):
 2. click import from github and import stupid-idiot-badge
 3. edit the file to make a link to a different replit and leave it blank (Change the command name to play and change the output to a blank link.)
 4. Create a new replit and click import from github.
-5. import this github link
+5. import this Discord game bot
 6. Paste the new replit into the blank link spot on the edited file.
 7. Create a new discord bot and call it game bot.
 8. Reset the token and copy it.
