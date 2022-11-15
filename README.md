@@ -2,6 +2,9 @@
 This is a bot made for the reason of playing games in discord. 
 Warning: this is in alpha and is very not complete, and will get major updates.
 
+How to run:
+type /play in your server with the bot.
+
 HOW TO IMPORT IT (This method to mod the bot):
 1. Go to https://replit.com/~ and click create.
 2. click import from github and import stupid-idiot-badge
