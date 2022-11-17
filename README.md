@@ -1,13 +1,13 @@
 # Discord-game-bot
 This is a bot made for the reason of playing games in discord. 
 Warning: this is in alpha and is very not complete, and will get major updates.
-
+Discord dev-portal: https://discord.com/developers/
 How to run:
 type /play in your server with the bot.
 
 # Installing
 
-Discord dev-portal: https://discord.com/developers/active-developer
+
 HOW TO IMPORT IT (This method to mod the bot):
 1. Go to https://replit.com/~ and click create.
 2. click import from github and import stupid-idiot-badge
