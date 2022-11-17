@@ -7,6 +7,7 @@ type /play in your server with the bot.
 
 # Installing
 
+Discord dev-portal: https://discord.com/developers/active-developer
 HOW TO IMPORT IT (This method to mod the bot):
 1. Go to https://replit.com/~ and click create.
 2. click import from github and import stupid-idiot-badge
